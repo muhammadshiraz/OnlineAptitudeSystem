@@ -128,60 +128,28 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 <table>
 <tbody>
 <tr>
-<td width="45">
-<p><strong><u>No.</u></strong></p>
-</td>
-<td width="240">
-<p><strong><u>Items</u></strong></p>
-</td>
-<td width="347">
-<p><strong><u>Description </u></strong></p>
-</td>
+<td width="45"><strong><u>No.</u></strong></td>
+<td width="240"><strong><u>Items</u></strong></td>
+<td width="347"><strong><u>Description </u></strong></td>
+</tr>
+<tr><td width="45">1</td>
+<td width="240">Operating System</td>
+<td width="347">Window 98,2000,XP etc</td>
 </tr>
 <tr>
-<td width="45">
-<p>1</p>
-</td>
-<td width="240">
-<p>Operating System</p>
-</td>
-<td width="347">
-<p>Window 98,2000,XP etc</p>
-</td>
+<td width="45">2</td>
+<td width="240">Main processor</td>
+<td width="347">Minimum 166 or better</td>
 </tr>
 <tr>
-<td width="45">
-<p>2</p>
-</td>
-<td width="240">
-<p>Main processor</p>
-</td>
-<td width="347">
-<p>Minimum 166 or better</p>
-</td>
+<td width="45">3</td>
+<td width="240">Ram (Memory)</td>
+<td width="347">Minimum 64 or better</td>
 </tr>
 <tr>
-<td width="45">
-<p>3</p>
-</td>
-<td width="240">
-<p>Ram (Memory)</p>
-</td>
-<td width="347">
-<p>Minimum 64 or better</p>
-</td>
-</tr>
-<tr>
-<td width="45">
-<p>4</p>
-</td>
-<td width="240">
-<p>Software</p>
-</td>
-<td width="347">
-<p>Net beans/Text pad/Notepad/</p>
-<p>Sql/Cmd</p>
-</td>
+<td width="45">4</td>
+<td width="240">Software</td>
+<td width="347">Net beans/Text pad/Notepad/Sql/Cmd</td>
 </tr>
 </tbody>
 </table>
