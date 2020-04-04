@@ -57,9 +57,41 @@ Aptitude and ability tests can classified as speed tests or power tests. In spee
 <h1 align="center">Snapshots</h1>
 <div align="center">
 <h2>Splash Screen:</h2>
-![1](https://user-images.githubusercontent.com/45601530/78431072-79da3a80-768e-11ea-9db1-f7e4d8b45d7a.PNG)
+  <img src="https://user-images.githubusercontent.com/45601530/78431072-79da3a80-768e-11ea-9db1-f7e4d8b45d7a.PNG">
 <h2>Login Panel:</h2>
-![2](https://user-images.githubusercontent.com/45601530/78431175-81014880-768e-11ea-8e79-f984d0f0ba1a.PNG)
+  <img src="https://user-images.githubusercontent.com/45601530/78431175-81014880-768e-11ea-8e79-f984d0f0ba1a.PNG">
 <h2>Student Window Screen:</h2>
-![3](https://user-images.githubusercontent.com/45601530/78431288-88c0ed00-768e-11ea-926b-57edd917a5b6.PNG)
+  <img src="https://user-images.githubusercontent.com/45601530/78431288-88c0ed00-768e-11ea-926b-57edd917a5b6.PNG">
+<h2>Select Subject:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450062-549cfa80-7695-11ea-8ac7-fbdaf1ed7058.png">
+<h2>Exam Panel:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450072-65e60700-7695-11ea-8cae-65a52e33f40e.png">
+<h2>Student Result:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450090-7ac29a80-7695-11ea-89af-454220542ab8.png">
+<h2>View Student Details:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450100-95950f00-7695-11ea-8cc5-956e29a37c8c.png">
+<h2>Update Student:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450107-a80f4880-7695-11ea-857e-d8ef84fed539.png">
+<h2>Feed Back:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450126-c9703480-7695-11ea-853d-e089356ed27b.png">
+<h2>Contact Us:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450138-d55bf680-7695-11ea-95bc-aa0eb70732a2.png">
+<h2>Change Password:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450145-e147b880-7695-11ea-948f-ec2c22b82199.png">
+<h2>Change Password:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450145-e147b880-7695-11ea-948f-ec2c22b82199.png">
+<h2>Admin Window:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450148-eefd3e00-7695-11ea-9031-5adbe76380a5.png">  
+<h2>Add Question:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450248-c9bcff80-7696-11ea-91cb-51bbc85d5ab6.png">
+<h2>View & Update  Questions Details:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450260-da6d7580-7696-11ea-920d-9ec03ac093cd.png">
+<h2>Add Student:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450270-e48f7400-7696-11ea-8e07-cfed74802959.png">
+<h2>Comments:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450280-f96c0780-7696-11ea-8273-6aecefa0e704.png">  
+<h2>Student Result:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450288-0a1c7d80-7697-11ea-97fd-3f9980da542e.png">
+<h2>Admin Password:</h2>
+  <img src="https://user-images.githubusercontent.com/45601530/78450298-17396c80-7697-11ea-8e6e-d5febebc72f4.png">
 </div>
