@@ -120,8 +120,11 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 <li>SQL Server 2005/2008 RTM</li>
 <li>JDBC Driver</li>
 </ul>
+
 ## User Guide
+
 ### System Requirements
+
 <table>
 <tbody>
 <tr>
@@ -182,16 +185,19 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 </tr>
 </tbody>
 </table>
+
 ### There is One Admin:
 <ol>
   <li><strong>Username:</strong> Admin</li>
   <li><strong>Password:</strong> admin55</li>
 </ol>
+
 ### There are Many Users:
 <ol>
   <li><strong>Username:</strong> johni</li>
   <li><strong>Password:</strong> john123</li>
 </ol>
+
 ### For Net Beans:
 <ul>
 <li>Open Net Beans and Open Aptitude Test System</li>
