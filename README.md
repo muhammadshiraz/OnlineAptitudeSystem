@@ -107,7 +107,7 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 ## Hardware/Software requirements:
 ### Hardware
 <ul>
-<li>A minimum computer system that will help you access all the tools in the courses is a Pentium D 1.2Ghz or better
+<li>A minimum computer system that will help you access all the tools in the courses is a Pentium D 1.2Ghz or better</li>
 <li>2048 Megabytes of RAM or better</li>
 <li>Windows Xp(or higher if possible)</li>
 <li>Java Virtual Machine</li>  
