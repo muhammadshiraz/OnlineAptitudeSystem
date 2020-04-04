@@ -4,7 +4,9 @@
 
 **APTITUDE TEST SYSTEM** ability are designed to assess your logical reasoning or thinking capabilities. They consist a Character of multiple choice question and are strictly timed.
 
-<div align="center">![AA0102](https://user-images.githubusercontent.com/45601530/78434706-8e6b0280-768f-11ea-89f5-76fc5c3073e4.png)</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45601530/78434706-8e6b0280-768f-11ea-89f5-76fc5c3073e4.png">
+</p>
 
 You may be asked to answer the questions either on paper or online. The advantages of online testing include immediate availability of result and test can be taken at an employment agency or even at home. This makes online testing particularly suitable for initial screening as it is very cost-effective.
 
