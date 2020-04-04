@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45601530/78446015-d2133b80-7692-11ea-9d80-8acd97dbe61a.png">
+</p>
+
 # Online Aptitude Test System
 
 ## Project Introduction
