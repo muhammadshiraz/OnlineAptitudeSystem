@@ -54,7 +54,7 @@ Aptitude and ability tests can classified as speed tests or power tests. In spee
 <li>Project Timeline</li>
 </ul>
 
-<h2 align="center">Snapshots</h2>
+<h1 align="center">Snapshots</h1>
 
 ### Splash Screen:
 ![1](https://user-images.githubusercontent.com/45601530/78431072-79da3a80-768e-11ea-9db1-f7e4d8b45d7a.PNG)
