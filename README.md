@@ -42,16 +42,17 @@ Aptitude and ability tests can classified as speed tests or power tests. In spee
 **Database:** ATS DB.sql
 
 #### The Project Plan defines the following: -
-
-• Project Purpose
-• Online Test and Project Goals and Objectives
-• Score and Expectations
-• Roles and Responsibilities
-• Assumptions and Constraints
-• Project Management Approach
-• Ground Rules for the Project
-• Project Budget
-• Project Timeline
+<ul>
+<li>Project Purpose</li>
+<li>Online Test and Project Goals and Objectives</li>
+<li>Score and Expectations</li>
+<li>Roles and Responsibilities</li>
+<li>Assumptions and Constraints</li>
+<li>Project Management Approach</li>
+<li>Ground Rules for the Project</li>
+<li>Project Budget</li>
+<li>Project Timeline</li>
+</ul>
 
 <h2 align="center">Snapshots</h2>
 
