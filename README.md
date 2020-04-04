@@ -55,10 +55,11 @@ Aptitude and ability tests can classified as speed tests or power tests. In spee
 </ul>
 
 <h1 align="center">Snapshots</h1>
-
-### Splash Screen:
+<div align="center">
+<h2>Splash Screen:</h2>
 ![1](https://user-images.githubusercontent.com/45601530/78431072-79da3a80-768e-11ea-9db1-f7e4d8b45d7a.PNG)
-### Login Panel:
+<h2>Login Panel:</h2>
 ![2](https://user-images.githubusercontent.com/45601530/78431175-81014880-768e-11ea-8e79-f984d0f0ba1a.PNG)
-### Student Window Screen:
+<h2>Student Window Screen:</h2>
 ![3](https://user-images.githubusercontent.com/45601530/78431288-88c0ed00-768e-11ea-926b-57edd917a5b6.PNG)
+</div>
