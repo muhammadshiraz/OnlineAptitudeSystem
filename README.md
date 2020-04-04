@@ -2,9 +2,7 @@
 
 ## Project Introduction
 
-APTITUDE TEST SYSTEM ability are designed to assess your logical reasoning or thinking capabilities. They consist a Character of multiple choice question and are strictly timed.
-
-**Project Introduction**
+**APTITUDE TEST SYSTEM** ability are designed to assess your logical reasoning or thinking capabilities. They consist a Character of multiple choice question and are strictly timed.
 
 ![AA0102](https://user-images.githubusercontent.com/45601530/78434706-8e6b0280-768f-11ea-89f5-76fc5c3073e4.png)
 
