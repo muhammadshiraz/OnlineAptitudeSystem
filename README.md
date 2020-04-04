@@ -204,3 +204,7 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 <li>Add  Sqljdbc4.jar to the library</li>
 <li>Now run login.java  file.</li>
 </ul>
+<div align="center">
+<h2>SQL Server Configuration Manager</h2>
+<img src="https://user-images.githubusercontent.com/45601530/78452312-0f33f980-76a4-11ea-9a97-ef661cfd62f3.png">
+</div>
