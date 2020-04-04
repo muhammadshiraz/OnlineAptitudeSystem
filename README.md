@@ -35,6 +35,26 @@ Aptitude and ability tests can classified as speed tests or power tests. In spee
 
 7. There should be new, update, cancel and search options available.
 
+## PROJECT PLAN
+
+### Purpose of Plan: - **APTITUDE TEST SYSTEM**
+
+**Database:** ATS DB.sql
+
+### The Project Plan defines the following: -
+
+#### • Project Purpose
+#### • Online Test and Project Goals and Objectives
+#### • Score and Expectations
+#### • Roles and Responsibilities
+#### • Assumptions and Constraints
+#### • Project Management Approach
+#### • Ground Rules for the Project
+#### • Project Budget
+#### • Project Timeline
+
+<h3 align="center">Snapshots</h3>
+
 ### Splash Screen:
 ![1](https://user-images.githubusercontent.com/45601530/78431072-79da3a80-768e-11ea-9db1-f7e4d8b45d7a.PNG)
 ### Login Panel:
