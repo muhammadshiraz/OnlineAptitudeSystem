@@ -104,7 +104,7 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 <li>Programming such as Online Aptitude System</li>
 </ul>
 
-## Hardware/Software requirements:
+## Hardware/Software requirements
 ### Hardware
 <ul>
 <li>A minimum computer system that will help you access all the tools in the courses is a Pentium D 1.2Ghz or better</li>
