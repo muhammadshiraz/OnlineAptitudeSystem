@@ -114,3 +114,87 @@ Aptitude System has as many Future Scope as think of some of the few point have 
 </ul>
 
 ### Software
+<ul>
+<li>Notepad/HTML editor/Java editor</li>
+<li>j2sdk1.4.1_02 (or later)</li>
+<li>SQL Server 2005/2008 RTM</li>
+<li>JDBC Driver</li>
+</ul>
+## User Guide
+### System Requirements
+<table>
+<tbody>
+<tr>
+<td width="45">
+<p><strong><u>No.</u></strong></p>
+</td>
+<td width="240">
+<p><strong><u>Items</u></strong></p>
+</td>
+<td width="347">
+<p><strong><u>Description </u></strong></p>
+</td>
+</tr>
+<tr>
+<td width="45">
+<p>1</p>
+</td>
+<td width="240">
+<p>Operating System</p>
+</td>
+<td width="347">
+<p>Window 98,2000,XP etc</p>
+</td>
+</tr>
+<tr>
+<td width="45">
+<p>2</p>
+</td>
+<td width="240">
+<p>Main processor</p>
+</td>
+<td width="347">
+<p>Minimum 166 or better</p>
+</td>
+</tr>
+<tr>
+<td width="45">
+<p>3</p>
+</td>
+<td width="240">
+<p>Ram (Memory)</p>
+</td>
+<td width="347">
+<p>Minimum 64 or better</p>
+</td>
+</tr>
+<tr>
+<td width="45">
+<p>4</p>
+</td>
+<td width="240">
+<p>Software</p>
+</td>
+<td width="347">
+<p>Net beans/Text pad/Notepad/</p>
+<p>Sql/Cmd</p>
+</td>
+</tr>
+</tbody>
+</table>
+### There is One Admin:
+<ol>
+  <li><strong>Username:</strong> Admin</li>
+  <li><strong>Password:</strong> admin55</li>
+</ol>
+### There are Many Users:
+<ol>
+  <li><strong>Username:</strong> johni</li>
+  <li><strong>Password:</strong> john123</li>
+</ol>
+### For Net Beans:
+<ul>
+<li>Open Net Beans and Open Aptitude Test System</li>
+<li>Add  Sqljdbc4.jar to the library</li>
+<li>Now run login.java  file.</li>
+</ul>
