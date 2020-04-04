@@ -1,6 +1,6 @@
 # Online Aptitude Test System
 
-##IProject Introduction
+## Project Introduction
 
 APTITUDE TEST SYSTEM ability are designed to assess your logical reasoning or thinking capabilities. They consist a Character of multiple choice question and are strictly timed.
 
